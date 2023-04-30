@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "wsy220@outlook.com <35551400@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  }
+}
